@@ -55,7 +55,7 @@ string? playerName = Console.ReadLine();
 
 while (game_is_on)
 {
-
+    Console.WriteLine(playerName);
 
 }
 
